@@ -1,0 +1,4 @@
+.git
+storage/*.sqlite
+public/uploads/*
+!public/uploads/.htaccess
